@@ -16,5 +16,6 @@
     "project-management"
   ],
   "privacyPolicyUrl": "https://www.kanbix.com.br/privacy",
-  "repository": "https://github.com/GabDevjs/kanbix-plugin"
+  "repository": "https://github.com/GabDevjs/kanbix-plugin",
+  "icon": "./assets/icon-square.png"
 }

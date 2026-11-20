@@ -36,8 +36,8 @@
           "Organize estas demandas em cards no Kanbix.",
           "Mostre o progresso e as subtarefas deste card."
         ],
-        "composerIcon": "./assets/icon.svg",
-        "logo": "./assets/logo.svg",
+        "composerIcon": "./assets/icon-square.png",
+        "logo": "./assets/logo-square.png",
         "supportURL": "https://www.kanbix.com.br/contato"
       },
       "onboardingSkill": "./skills/manage-kanbix/SKILL.md",

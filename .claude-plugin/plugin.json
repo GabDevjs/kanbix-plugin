@@ -1,0 +1,20 @@
+{
+  "name": "kanbix",
+  "version": "0.1.0",
+  "description": "Organize boards, cards and task relationships in Kanbix through a secure connection to your account.",
+  "author": {
+    "name": "Kanbix",
+    "email": "contato@kanbix.com.br",
+    "url": "https://www.kanbix.com.br"
+  },
+  "homepage": "https://www.kanbix.com.br",
+  "license": "MIT",
+  "keywords": [
+    "kanbix",
+    "kanban",
+    "tasks",
+    "project-management"
+  ],
+  "privacyPolicyUrl": "https://www.kanbix.com.br/privacy",
+  "repository": "https://github.com/GabDevjs/kanbix-plugin"
+}

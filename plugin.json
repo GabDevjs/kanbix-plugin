@@ -91,7 +91,8 @@
           ]
         },
         "commerce": false,
-        "commerce_description": "The plugin does not accept payments or sell products. Access to Kanbix remains subject to the user account plan and quotas."
+        "commerce_description": "The plugin does not accept payments or sell products. Access to Kanbix remains subject to the user account plan and quotas.",
+        "demo_recording_url": "https://github.com/GabDevjs/kanbix-plugin/releases/download/review-demo-2026-11-20/kanbix-review-walkthrough.mp4"
       },
       "publication": {
         "release_notes": "Initial public submission package with board-scoped OAuth, task workflows, least-privilege permissions and instructions for handling untrusted board content."

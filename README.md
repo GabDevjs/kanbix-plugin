@@ -35,3 +35,7 @@ The integration package is licensed under the MIT License; see LICENSE. This lic
 Source: https://github.com/GabDevjs/kanbix-plugin
 
 Public directory listings remain subject to OpenAI and Anthropic review. A public GitHub repository is not itself a directory approval.
+
+## Review walkthroughs
+
+[Captioned ChatGPT and Claude demonstrations](https://github.com/GabDevjs/kanbix-plugin/releases/tag/review-demo-2026-11-20) use only synthetic demo data. These edited videos contain real browser captures, with Portuguese and English captions. They document the tested scope and limitations; they do not claim directory approval.
